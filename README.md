@@ -5,6 +5,8 @@ Enjoy your entire music library with smooth streaming, smart offline caching, an
 
 ---
 
+![](home-1.webp)
+
 ### ✨ Powerful Features for Every Music Lover
 
 🎧 **Universal Music Access**
