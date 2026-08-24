@@ -1,6 +1,6 @@
 ## 🎵 Amcfy Music — The Modern Subsonic-Compatible Music Player
 
-**Amcfy Music** is a beautifully designed, high-performance **music player and Subsonic client** that connects seamlessly with **[Subsonic](https://www.amcfy.com/help/subsonic-install-docs), [Navidrome](https://www.amcfy.com/help/navidrome-install-docs), [Jellyfin](https://www.amcfy.com/help/jellyfin-install-docs), [Emby](https://www.amcfy.com/help/emby-install-docs), [Swing Music](https://www.amcfy.com/help/swing-music-install-docs), [Daoliyu Music](https://www.amcfy.com/help/daoliyu-music-install-docs)** servers.
+**Amcfy Music** is a beautifully designed, high-performance **music player and Subsonic client** that connects seamlessly with **[Daoliyu Music](https://daoliyu.cn), [Songloft](https://github.com/songloft-org/songloft), [Subsonic](https://www.subsonic.org), [Navidrome](https://www.navidrome.org), [Jellyfin](https://jellyfin.org/), [Emby](https://emby.media/), [Plex](https://watch.plex.tv/)** servers.
 Enjoy your entire music library with smooth streaming, smart offline caching, and full control over playback — all in a modern, elegant interface.
 
 ---
