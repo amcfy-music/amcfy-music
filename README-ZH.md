@@ -1,6 +1,6 @@
 ## 🎵 Amcfy Music — 美观·流畅·强大的音乐播放器
 
-**Amcfy Music** 是一款现代化的高颜值音乐播放器，兼容 **[Subsonic](https://www.amcfy.com/help/subsonic-install-docs)、[Navidrome](https://www.amcfy.com/help/navidrome-install-docs)、[Jellyfin](https://www.amcfy.com/help/jellyfin-install-docs)、[Emby](https://www.amcfy.com/help/emby-install-docs)、[Swing Music](https://www.amcfy.com/help/swing-music-install-docs)、 [道理鱼音乐](https://www.amcfy.com/help/daoliyu-music-install-docs)** 等多种服务器。
+**Amcfy Music** 是一款现代化的高颜值音乐播放器，兼容 **[道理鱼音乐管理](https://daoliyu.cn), [Songloft](https://github.com/songloft-org/songloft), [Subsonic](https://www.subsonic.org), [Navidrome](https://www.navidrome.org), [Jellyfin](https://jellyfin.org/), [Emby](https://emby.media/), [Plex](https://watch.plex.tv/))** 等多种服务器。
 无论你是在本地听歌，还是远程串流，都能获得顺滑流畅、沉浸自然的播放体验。
 
 ### ✨ 功能亮点
